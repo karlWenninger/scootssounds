@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Euphoria+Script');
+
+body{
+	text-align:center;
+	font-family: Helvetica, sans-serif;
+}
+
+
+a:link, a:visited {
+    background-color: purple;
+    color: white;
+    padding: 10px 10px;
+    margin: 5px 5px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
+}
+
+/*h1{
+	font-family: 'Euphoria Script', Times;
+	font-size: 10em;
+	color: purple;
+}*/
+
+.title{
+	font-family: 'Euphoria Script';
+	font-size: 10em;
+	color: purple;
+	
+}
+
+h2{
+	font-family: arial, sans-serif;
+}
+
+.container{
+	width: 800px;
+	margin: auto;
+}
