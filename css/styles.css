@@ -17,24 +17,19 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-    background-color: red;
+    background-color: #cd9fe0;
 }
 
-/*h1{
-	font-family: 'Euphoria Script', Times;
-	font-size: 10em;
-	color: purple;
-}*/
-
-.title{
-	font-family: 'Euphoria Script';
-	font-size: 10em;
+.pagetitle{
+	font-family: 'Euphoria Script', cursive;
+	font-size: 9em;
 	color: purple;
 	
 }
 
 h2{
-	font-family: arial, sans-serif;
+	font-family: Helvetica, sans-serif;
+	color: #555;
 }
 
 .container{
